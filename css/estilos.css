@@ -1,6 +1,6 @@
 body
 {
-    color: rebeccapurple;
+    color: rgb(21, 20, 22);
     text-align: center;
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
@@ -23,7 +23,7 @@ body
 }
 #contairner {
     width: 70%;
-    padding: 0em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -35,4 +35,11 @@ body
 
 #post {
     padding: 1mm;
+}
+
+#footer {
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
