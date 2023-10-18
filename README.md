@@ -10,6 +10,7 @@ Este ejercicio lo realicé para el curso de **Git y Github** de **Platzi** en Oc
 - El verdadero amor por las buenas prácticas
 - Creado por platzi team
 - Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
 [![](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/10/mapbox_github.jpg)](http://https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/10/mapbox_github.jpg)
 
 
